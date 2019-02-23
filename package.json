@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/naando-araujo/NodeTS.Products.API/issues"
   },
-  "homepage": "https://github.com/naando-araujo/NodeTS.Products.API#readme"
+  "homepage": "https://github.com/naando-araujo/NodeTS.Products.API#readme",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.15",
+    "nodemon": "^1.18.10"
+  }
 }
